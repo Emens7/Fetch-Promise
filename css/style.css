@@ -1,0 +1,13 @@
+h1 {
+    text-align: center;
+    padding: 2.5rem
+}
+
+.img {
+    text-align: center;
+}
+
+img {
+    border-radius: .9rem;
+    margin: 3rem;
+}
